@@ -3,7 +3,7 @@
   (descr "MX PCB Stabilizer 2.00u 2.25u 2.50u 2.75u")
   (tags "MX Keyboard Stabilizer 2.00u 2.25u 2.50u 2.75u Cutout")
   (attr exclude_from_pos_files exclude_from_bom)
-  (fp_text reference "REF**" (at 0 -2) (layer "F.SilkS")
+  (fp_text reference "REF**" (at 0 -2) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp f54ae401-b5c2-4635-92cb-997290441356)
   )
