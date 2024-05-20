@@ -319,7 +319,7 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))
   )
-  (model "${PERSONAL_KICAD}/3dmodels/Personal_CAD.3dshapes/MX_1.00u_CAD.step" hide
+  (model "${PERSONAL_KICAD}/3dmodels/Personal_CAD.3dshapes/MX_1.50u_CAD.step" hide
     (offset (xyz 0 0 17))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 180 0))
