@@ -6,7 +6,7 @@
     (property "Value" "Frood" (at 0 2.54 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Personal_MCU:Frood_PinHeader_2x13+5_P2.54mm_Labels_Top" (at 0.254 -29.972 0)
+    (property "Footprint" "Personal_MCU:Frood_PinHeader_2x13+5_P2.54mm_No_Labels" (at 0.254 -29.972 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 17.78 -25.4 0)
