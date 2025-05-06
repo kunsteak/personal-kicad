@@ -3,8 +3,8 @@
   (descr "SOD-123")
   (tags "SOD-123")
   (attr smd)
-  (fp_text reference "REF**" (at 0 -2) (layer "F.SilkS")
-      (effects (font (size 1 1) (thickness 0.15)))
+  (fp_text reference "REF**" (at 0 -2) (layer "Dwgs.User") hide
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     (tstamp fbda2406-adbb-4ca8-8db6-5c8a9710cde9)
   )
   (fp_text value "1N4148W" (at 0 2.1) (layer "F.Fab")

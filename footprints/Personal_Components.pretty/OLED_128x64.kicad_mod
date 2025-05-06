@@ -5,7 +5,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 321fc844-a873-4e3f-83ce-18c15e8ba326)
   )
-  (fp_text value "OLED_128x64" (at 0 -8.89) (layer "F.Fab")
+  (fp_text value "OLED_128x64" (at 0 2.032) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 31c7894f-372d-4d7b-a301-c7d73505791b)
   )
