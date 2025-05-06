@@ -1,5 +1,7 @@
 # PersonalKiCad
 
+Library setup guide [here](https://github.com/joe-scotto/scottokeebs/blob/main/Extras/ScottoKicad/README.md). Use "Personal" instead of "ScottoKeebs".
+
 A collection of footprints, symbols, and 3D models for building mechanical keyboards with KiCad.
 
 This repo and most of the files were originally collected by [Joe Scotto](https://github.com/joe-scotto).
